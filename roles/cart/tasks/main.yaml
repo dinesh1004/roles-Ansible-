@@ -7,9 +7,9 @@
   ansible.builtin.import_role:
     name : common
     tasks_from : appsetup.yaml
-    
+
 - name : syetem setup
   ansible.builtin.import_role:
     name : common
-    tasks_from : syetemsetup.yaml
+    tasks_from : systemsetup.yaml
   
