@@ -1,1 +1,2 @@
 REDIS_HOST : redis.suneel.shop
+CATALOGUE_HOST : catalogue.suneel.shop
