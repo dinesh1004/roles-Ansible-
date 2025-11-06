@@ -1,5 +1,6 @@
 RABBITMQ_USER: roboshop
 RABBITMQ_PASS: roboshop123
+
 USER_HOST : user.suneel.shop
 CART_HOST : cart.suneel.shop
 SHIPPING_HOST : shipping.suneel.shop
@@ -9,3 +10,4 @@ MYSQL_HOST : mysql.suneel.shop
 RABBITMQ_HOST : rabbitmq.suneel.shop
 CATALOGUE_HOST : catalogue.suneel.shop
 REDIS_HOST : redis.suneel.shop
+
